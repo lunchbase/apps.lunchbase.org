@@ -4,4 +4,5 @@
 
 layout: home
 ---
-yo
+
+This is the first Lunchbase hobbyist project :sparkles:
